@@ -61,7 +61,8 @@
   .links img{
     /* width: 7vw; */
     height: 4vw;
-    margin-top: -10px;
+    margin-left: 25px;
+    object-fit: cover;
   }
   #Login{
     border: none;
@@ -125,6 +126,7 @@
     overflow-x:hidden ;
     gap: 26px;
     flex-wrap: nowrap;
+    /* background-color: red; */
   }
   .scroller{
     width: fit-content;

@@ -48,7 +48,7 @@
     }
     .links i{
         display: block;
-        font-size: 3vw;
+        font-size: 4vw;
     }
 }
 @media (max-width:600px) {
